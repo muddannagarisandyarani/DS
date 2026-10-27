@@ -1,0 +1,3 @@
+review,rating,title,nltk_positive,nltk_negative,nltk_neutral,nltk_compound,vader_positive,vader_negative,vader_neutral,vader_compound,nltk_sentiment,vader_sentiment
+The product is very useful.,5 stars,Good Product,0.444,0.0,0.556,0.4927,0.444,0.0,0.556,0.4927,Positive,Positive
+The product is okay.,3 stars,Average Product,0.388,0.0,0.612,0.2263,0.388,0.0,0.612,0.2263,Positive,Positive

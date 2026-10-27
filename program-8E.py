@@ -44,3 +44,4 @@ plt.tight_layout()
 plt.savefig("sentiment_intensity_scatter.png", dpi=300)
 plt.show()
 print("Scatter intensity plot saved successfully.")dir
+git commit -m "Add Experiment 8 programs A to E"
